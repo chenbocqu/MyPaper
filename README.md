@@ -1,3 +1,4 @@
 # SEMMDL Model
 
-$\min_{P,B,S,<W,b>} ||PX-BS||_F^2$
+<img src="https://github.com/chenbocqu/MyPaper/tree/master/pic/semmdl_model.png" width="60%"/>
+
